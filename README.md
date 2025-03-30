@@ -1,4 +1,4 @@
-# Buddy
+## Buddy
 
 
 <p id="description">Buddy is an innovative personal AI assistant developed using Flutter. Powered by the Gemini API it allows users to engage in intelligent conversations and get responses in real time. A unique feature of Buddy is its image analysis capability where users can upload images and the AI will provide detailed insights about them. This makes it a versatile assistant for everyday needs from answering queries to recognizing objects in images. The app ensures a smooth and interactive experience making AI-powered assistance more accessible and efficient for users.</p>
